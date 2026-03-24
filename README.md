@@ -1,29 +1,65 @@
-# IA-na-investigacao-de-incidentes-de-seguranca
+# Investigação de Incidentes de Segurança com Inteligência Artificial
 
-Mini Guia: Investigação de Incidentes com IA
+## Contexto
 
-Contexto: 
-Importância da detecção de incidentes.
+A crescente sofisticação dos ataques cibernéticos exige novas abordagens para detecção e investigação de incidentes. A Inteligência Artificial pode apoiar analistas de segurança na análise de grandes volumes de dados e na identificação de padrões suspeitos.
 
-Fontes: 
-Relatórios e artigos sobre SOC e IA.
+Este projeto explora o uso de ferramentas de IA para apoiar a investigação de incidentes de segurança.
 
-Prompts utilizados: 
-Prompts para análise de logs e incidentes.
+---
 
-Resultados: 
-Exemplos de análise gerados pela IA.
+## Objetivos
 
-Conclusão: 
-Como IA pode ajudar equipes de segurança.
+- Explorar o uso de IA para análise de incidentes de segurança
+- Aplicar engenharia de prompts para investigação de eventos suspeitos
+- Demonstrar como frameworks de segurança podem auxiliar na análise de ataques
+
+---
 
 ## Fontes Utilizadas
 
-1. MITRE ATT&CK Framework  
+- MITRE ATT&CK Framework  
 https://attack.mitre.org/
 
-2. NIST SP 800-61 – Computer Security Incident Handling Guide  
+- NIST SP 800-61 – Computer Security Incident Handling Guide  
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf
 
-3. Microsoft Security Insider – Relatórios de ameaças  
+- Microsoft Security Insider  
 https://www.microsoft.com/security/security-insider
+
+---
+
+## Prompts Utilizados
+
+Exemplos de prompts aplicados na análise dos documentos:
+
+- Explicação de incidentes de segurança
+- Identificação de vulnerabilidades
+- Mapeamento de técnicas do MITRE ATT&CK
+- Sugestões de mitigação de riscos
+
+---
+
+## Exemplo de Investigação
+
+Foi analisado um conjunto de logs com diversas tentativas de autenticação falhadas seguidas de sucesso.
+
+Esse comportamento pode indicar um possível ataque de força bruta.
+
+Técnica associada no MITRE ATT&CK:
+
+**T1110 – Brute Force**
+
+---
+
+## Conclusão
+
+Ferramentas de Inteligência Artificial podem apoiar significativamente equipes de segurança na investigação de incidentes, permitindo análise mais rápida de dados, identificação de padrões suspeitos e apoio à tomada de decisão.
+
+---
+
+## Próximos passos
+
+- Criar novos laboratórios de investigação de incidentes
+- Simular análise de logs mais complexos
+- Aplicar técnicas de threat intelligence
