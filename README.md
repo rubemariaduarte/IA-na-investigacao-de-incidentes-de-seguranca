@@ -66,4 +66,4 @@ Ferramentas de Inteligência Artificial podem apoiar significativamente equipes 
 - 
 ---
 
-- # Este projeto faz parte do Bootcamp de Cibersegurança da DIO e tem como objetivo fortalecer habilidades práticas em investigação de incidentes e uso de inteligência artificial em segurança da informação.
+- Este projeto faz parte do Bootcamp de Cibersegurança da DIO e tem como objetivo fortalecer habilidades práticas em investigação de incidentes e uso de inteligência artificial em segurança da informação.
