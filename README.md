@@ -63,7 +63,6 @@ Ferramentas de Inteligência Artificial podem apoiar significativamente equipes 
 - Criar novos laboratórios de investigação de incidentes
 - Simular análise de logs mais complexos
 - Aplicar técnicas de threat intelligence
-- 
 ---
 
-- Este projeto faz parte do Bootcamp de Cibersegurança da DIO e tem como objetivo fortalecer habilidades práticas em investigação de incidentes e uso de inteligência artificial em segurança da informação.
+Este projeto faz parte do Bootcamp de Cibersegurança da DIO e tem como objetivo fortalecer habilidades práticas em investigação de incidentes e uso de inteligência artificial em segurança da informação.
